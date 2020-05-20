@@ -1,0 +1,89 @@
+---
+title: "Threats to Validities"
+author: "Brian Holt"
+date: "May 20, 2020"
+output: 
+  html_document:
+    toc: True
+    toc_float: True
+    toc_depth: 3
+  
+fig_width: 6
+fig_height: 4
+---
+
+# Construction Validity
+
+## Threats
+
+1. Attention and contact
+
+2. Single operations and narrow stimulus sampling
+
+3. Experimenter Expectancy
+
+4. Cues of the experimental situation  aka demand characteristics
+
+# Statistical Conclusion Validity
+
+## Threats
+
+1. Low statistical power
+
+2. Variability in Procedures
+
+3. Subject Heterogeneity
+
+4. Unreliability of measures
+
+5. multiple comparison error rates
+
+
+# Internal Validity
+
+## Threats
+
+1. History  --any unplanned event that happens in or out of the experiment during the course.  Fired from work, a student dies on UW campus in the middle of a year long experiment, impacted students are now different than students taking experiment before the death.
+
+2.  maturation  Age, sophistication, 
+
+3. Testing.  Taking a pretest may impact post test
+
+4. Instrumentation Change in measurement instruments over time.  
+
+5. Regression to the mean
+
+6. Selection Biases  Systematic differences between groups based on selection or assignment
+
+7. Attrition
+
+8. Combination of selection and other threats.  If not using random assignment, you may get selection biases and related other biases like those above, like a history threat.
+
+9. Diffusion or limitation of treatment.  An intervention given to one group is accidentally provided. Psychoanalyst in therapy also uses a little CBT.  
+
+10. Special treatment or reactions of controls.  No treatment control group gets special tx such as more $, more monitoring, of well being or special privileges. 
+
+
+# External Validity
+
+## Threats
+
+1. Sample characteristics  You can't generalize to groups that don't have these same traits
+
+2. stimulus characteristics..things like settings.  A particular therapist, or other features of the experiment which may affect DV
+
+3. contextual characteristics.  conditions in which the experiment is embedded.
+
+    a. Reactivity of experimenal arrangement  --effect of fact that person knows she is being studied
+    
+    b. multple treatment interference  -- if subjects are exposed to more than one treatment, multiple treatment interference refers to drawing conlusions about a given tx in the context of other tx's
+    
+    c. No .... effects
+
+4. Assessment characteristics
+
+    a. reactiveity of assessment  extent to which people show change bec they know they've been assessed
+    
+    b. test sensitization does preteest change person amenability to tx?
+
+    c. time measurement and tx effectgs
