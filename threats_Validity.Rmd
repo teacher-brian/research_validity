@@ -1,5 +1,5 @@
 ---
-title: "Threats to Validities"
+title: "Threats to Validity"
 author: "Brian Holt"
 date: "May 20, 2020"
 output: 
@@ -7,83 +7,184 @@ output:
     toc: True
     toc_float: True
     toc_depth: 3
-  
 fig_width: 6
 fig_height: 4
 ---
 
-# Construction Validity
 
-## Threats
-
-1. Attention and contact
-
-2. Single operations and narrow stimulus sampling
-
-3. Experimenter Expectancy
-
-4. Cues of the experimental situation  aka demand characteristics
-
-# Statistical Conclusion Validity
-
-## Threats
-
-1. Low statistical power
-
-2. Variability in Procedures
-
-3. Subject Heterogeneity
-
-4. Unreliability of measures
-
-5. multiple comparison error rates
-
+These listed threat can overlap.  So, it is common to point out that a single issue in an experiment violates multiple efforts of maintaining validity. 
 
 # Internal Validity
 
+"... addressed by experimental arrangements that help rule out or make implausible factors that could explain the effects we wish to attribute to the intervention" (Kazdin, 1992) 
+
+Kazdin is saying that we want to render alternative explanations as worthless. We want to set up our experiment that effectively neutralizes their impact so that the only one remaining would be the logical explanation of cause.
+
+Internal validity (IV) is the priority, both for conclusions and also logically coming before external validity. One should first have a factual finding before worrying about whether it generalizes (Kazdin 1992). 
+
 ## Threats
 
-1. History  --any unplanned event that happens in or out of the experiment during the course.  Fired from work, a student dies on UW campus in the middle of a year long experiment, impacted students are now different than students taking experiment before the death.
+### History  
+- any unplanned event that happens in or out of the experiment during the course.  Fired from work, a student dies on UW campus in the middle of a year long experiment, impacted students are now different than students taking experiment before the death.
 
-2.  maturation  Age, sophistication, 
+###  Maturation  Age, sophistication 
+- changes within the subject.  It's similar to history effects but contained within the person. Also includes things like wisdom, boredom, fatigue.
 
-3. Testing.  Taking a pretest may impact post test
+### Testing  
+- Taking a pretest may impact post test
 
-4. Instrumentation Change in measurement instruments over time.  
+### Instrumentation Change in measurement instruments over time.  
+- Consider 30 years ago how we measured "gender".  It was considered binary and confused with 'Sex'.  Now we measure both (or at least we should). But now it's harder to compare trends today from what took place 30 years ago.  Not that we shouldn't be curious about the ways we can experience Gender but that it's changed and so may be subject to this type of measurement threat. 
 
-5. Regression to the mean
+### Regression to the mean
+- this statistical property is when extreme events (rare) are followed, usually, but events that are closer to the average.  
+- A classic case of statistical regression exists in athletics or I think it was in the pilot training school. An athlete would perform really poorly, and this would represent the extreme event. It's rare. So statistically we expect that the next time the athlete performs they would perform closer to their average performance.  But often after the initial poor performance, the coach would yell at the athlete and berate them. And then the athlete would go out and play better. The coach would then conclude that their aggressive browbeating, poorly supported by research coaching Style, is the source of the athletes renewed performance.
+- As an example, let's say you wanted to provide some kind of treatment, or intervention to help reduce stress. And in this research  you gave a survey measuring stress, you may be interested in the students who are the most stressed. If you included them in your study, provide some treatment, and then re-measure their stress levels, regression to the mean would predict that students would revert back to a general level of stress Regardless if they receive the treatment (this is why we need control groups), which would have nothing to do with your intervention.
 
-6. Selection Biases  Systematic differences between groups based on selection or assignment
 
-7. Attrition
+### Selection Biases
+- Systematic differences between groups based on selection or assignment.  
+- Conclusions about an independent variable are only clear when the group's under study have been shown to be basically the same. Random assignment helps ensure this, but if there are systemic differences between the groups before the intervention, then your experiment will be unclear.
 
-8. Combination of selection and other threats.  If not using random assignment, you may get selection biases and related other biases like those above, like a history threat.
+### Attrition  
+- Participants dropping out for various reasons, but if those reasons are systematic, then that will impact your groups.
 
-9. Diffusion or limitation of treatment.  An intervention given to one group is accidentally provided. Psychoanalyst in therapy also uses a little CBT.  
+### Combination of selection and other threats.  
+- If not using random assignment, you may get selection biases and related other biases like those above, like a history threat.
 
-10. Special treatment or reactions of controls.  No treatment control group gets special tx such as more $, more monitoring, of well being or special privileges. 
+### Diffusion or limitation of treatment.
+- An intervention given to one group is accidentally provided. for example, a therapist using CBT also throws in some psychoanalytically inspired ideas on attachment and defense mechanisms. 
 
+### Special treatment or reactions of controls.   
+- No treatment control group gets special tx such as more $, more monitoring of well being or special privileges. As in, “I know it's so hard to wait for your turn to get the therapy, here let me buy you a sandwich.”
 
 # External Validity
 
+It's all about generalizability
+
 ## Threats
 
-1. Sample characteristics  You can't generalize to groups that don't have these same traits
+### Sample characteristics  
+- You can't generalize to groups that don't have the same traits, such as age, gender, ethnicity, education, etc. This is what most intro to research students see as major threats.  
 
-2. stimulus characteristics..things like settings.  A particular therapist, or other features of the experiment which may affect DV
+### Stimulus characteristics
+- Things like settings.  A particular therapist out of several has uncommon talents, or other features of the experiment which may affect outcomes
 
-3. contextual characteristics.  conditions in which the experiment is embedded.
+### Contextual characteristics.  
+- Conditions in which the experiment is embedded.
 
-    a. Reactivity of experimenal arrangement  --effect of fact that person knows she is being studied
-    
-    b. multple treatment interference  -- if subjects are exposed to more than one treatment, multiple treatment interference refers to drawing conlusions about a given tx in the context of other tx's
-    
-    c. No .... effects
+  a. Reactivity of experimental arrangement  --effect of fact that person knows she is being studied
 
-4. Assessment characteristics
+  b. multiple treatment interference  -- if subjects are exposed to more than one treatment, multiple treatment interference refers to drawing conclusions about a given tx in the context of other tx's
 
-    a. reactiveity of assessment  extent to which people show change bec they know they've been assessed
-    
-    b. test sensitization does preteest change person amenability to tx?
+  c. Novelty effects  -- the newness of some intervention is the source of change, not the intervention itself.  Brake lights used to be only near the trunk.  In the late 70's some evidence showed that putting a brake light near the back window reduced rear-end collisions.  Studies supported this.  But now that nearly all cars have brake lights higher up near the back window, their effectiveness has waned.  
 
-    c. time measurement and tx effectgs
+### Assessment characteristics
+
+a. Reactivity of assessment  --extent to which people show change because they know they've been assessed
+
+b. Test sensitization --does pre-test change person amenability to tx?
+
+c. Time measurement and treatment (tx) effects  -- the timing of measurement may reveal the effectiveness of an intervention. For example, let's say you perform an experiment where one group is treated a particular way, and then immediately you measure their score on some survey. The immediacy of that measurement may not allow for generalizability because had you waited an hour, for example, the treatment effect goes away. 
+
+
+# Construct Validity
+
+>Construct validity addresses the presumed cause for the explanation of the causal relation. Is the explanation or interpretation of the investigator plausible? Is the reason for the relation between the intervention and behavior change due to the construct (explanation, interpretation) given by the investigator? Answers to these questions focus specifically on construct validity (Kazdin, 1992).
+
+
+## Threats
+
+### Attention and contact
+- Imagine a perfect study where all internal threats have been handled well. And let's say the study is testing the effectiveness of a medicine against a control group given a placebo. Let's further say that the drug absolutely has an effect. But in the administration of the effect and giving the treatment, the doctor spins time and attention discussing the effect of the drug and how the medical effects impact critical biological processes.
+
+- In this example both the drug and the doctor's attention and contact with the participant will have an impact on the behavior that's being measured. So there's actually two constructs at play and if you don't handle them they amalgamate together such that the effects of the actual medicine may be overestimated.
+
+### Single operations and narrow stimulus sampling
+
+- These threats to construct validity often have in common the notion of "interaction" . Imagine a therapist giving two different treatments to two different groups. And let's say one treatment (tx A) is shown to be superior than the other. The conclusion would be that the treatment A, and not the therapist, was the main factor. This appears logical because you could say that both groups were treated by the same therapist, and any therapist effects would canceled out.
+
+- The problem is that there may be an interaction between therapist and treatment. In other words, the therapist may feel more comfortable giving treatment A, whereas the therapist may feel reluctant to give treatment B. As a consequence, this interaction between therapist and treatment may be the reason that the group receiving treatment a improved.  This is a muddled, confounded, construct. 
+
+
+### Experimenter Expectancy
+- these show up because experimenters are human and can be biased against certain interventions, against certain people, or in favor of certain treatments, and people. As a consequence of these unintentional biases we as experimenters can impact our participants in very subtle ways. Often it is this set of threats that double blind experiments  are used where the experimenter, who may have their unknown biases, are blind to which subjects receive which treatments, and the second blind is that the participants themselves are blind to which group they've been assigned to. 
+
+### Cues of the experimental situation  aka demand characteristics
+- Demand characteristics are interesting and are often useful fodder for experiments themselves. Basically, are there any forms of communication that could be picked up by participants prior to the study that would buy us their performance in that study? This could be as subtle as instructions given on a survey, smiles from research assistance, rumors from other participants who completed the study. The bottom line is  that demand characteristics represent a venue to influence participants in ways one might think are irrelevant.
+
+
+# Statistical Conclusion Validity
+
+Using statistical tests are necessary because they help researchers determine whether differences between groups are real and whether those differences were due to chance.  Consider a simple example.
+
+Essentially, if you flip a coin 10 times and find that heads came up 7 times. You may wonder whether or not the coin is Fair. It turns out that statistics can tell us the likelihood of this happening. And by the way it happens about 17% of the time.
+
+What this means regarding my silly coin flip example is that an event that seems relatively rare, like 7 out of 10 coin tosses coming up heads, actually shows up not 0 but also not 50% of the time.  
+
+When you design an experiment, ultimately you're going to have some statistical summary of that effort. And it might be a simple measurement of did it work: Yes or no?
+
+If you treat the count of yes's and no’s as heads or tails, you might find that statistics tells you whether or not the count of yes's versus the number of no’s would be expected by chance.
+
+So statistical conclusion validity speaks to the way that you use quantitative evaluation and whether not you use them appropriately in your final analysis
+
+
+
+## Threats
+
+### Low statistical power
+
+- Power is the ability of a test to detect a difference. More specifically power is the probability rejecting the null hypothesis when the null hypothesis is false. The following threats to statistical validity below contribute to weak power. But this particular section it's best to discuss what do we mean by power in relation to sample size or to effect size.
+
+- At an intuitive level an effect size is an effort to quantify the size of some factors affect relative to other factors. My favorite example in class is to talk about the effects that gravity and friction have on a falling object. If the dependent variable is the speed it takes for an object to fall a given distance, and you were to compare objects such as a balled-up and crumpled piece of paper versus a hammer, I'm sure you would not be surprised that the hammer falls a tad faster. So the question of effect size is what are all of the factors of influence, but which factors are more important to explain the outcome? In this case, the time that the object falls to the ground. The most important one, in other words the factor that has the largest effect size, is the physical concept of gravity. Without gravity, nothing's falling. A smaller effect that is absolutely real and true, but smaller, is that a friction. That the atmosphere, the air in our classroom, will slow down the falling crumpled piece of paper. In other words, friction is not nothing but compared to gravity it's small.
+
+```{r, echo=F}
+x <- .9
+y <- .07
+z <- 1-x-y
+mx<- matrix(c(x,y,z),dimnames = list(c("Gravity", "Friction","Other/Noise"),
+                               c("Effect")))
+barplot(mx, width = .3,xlim=c(0,.8),col=c("blue","turquoise","pink"),legend.text = T)
+```
+
+
+- If you have large effects then you don't need a whole lot of the  Statistical power. Imagine you were in a dark room looking for a tiny small diamond earring. Statistical power would be the brightness of your flashlight. Because the diamond is small, you may need a relatively powerful flashlight to detect it. On the other hand if you were looking for a refrigerator, you might just need the glow of your smartphone.
+
+- In other words, small effect sizes require massive amounts of statistical power to detect differences and the reason is because small effect sizes can be masked by statistical noise. To use our diamond example. You may be looking for the diamond, but some glitter from your makeup, or your kids art project, will also reflect a little bit of light and so now you've got a lot of background noise that makes it hard to detect the diamond.
+
+- If you're looking for a huge factor with a huge effect size like a refrigerator in a dark room, the room could be filled with washing machines and dishwashers and diamonds and glitter but the refrigerator is so huge you're going to have an easy time finding it.
+
+- The most well-known way to increase statistical power is to increase sample size. Having said that,  some researchers (McElreath, 2020 ) lament that given the ease at which we are able to collect data now may discourage researchers from actually thinking through and being clear about their scientific proposals. Being clear about your proposal may actually obviate the need to increase sample sizes.
+
+- The other way to change power is to adjust the alpha level of your test. This is a bit of a controversial thing to try. The standard Alpha level in psychology is 05. What this means is that you have set up your experiment such that you're willing to be wrong 5% of the time if you're willing to be wrong 30% of the time, you would be effectively changing your Alpha from .05  to .30. and in doing so you would be more likely to detect differences, however those differences may be more likely to be due to chance.
+
+
+### Variability in Procedures
+
+- If your efforts to control internal validity are weak, or that your efforts to have clean procedures are weak, then that will introduce noise into your study making it hard to statistically differentiate real effects from that noise. So, the solution is to make sure that your procedures are clean, and do not contribute to noise.  It would not be wrong to think about this as a ratio.  With noise in the denominator, and the main effects in the numerator: $\frac{\text{Effect}}{\text{Noise}}$ 
+
+The more noise you have in the denominator, the overall ratio reduces and approaches 0: \[\frac{\text{Effect}}{\text{Noise}\rightarrow\infty}\rightarrow0\]  
+
+So, if you can reduce the amount of noise in your study, that would mean the main effects will be easier to see: \[\frac{\text{Effect}}{\text{Noise}\rightarrow0}\rightarrow\infty\]
+
+(Of course you'll never have a perfect study that has zero noise, and zero variability so your denominator will never approach zero in the slightest).
+
+### Subject Heterogeneity
+
+- Subject heterogeneity is also related to power, and effect sizes. Similar to reducing noise and procedures, making participants more similar on various traits will reduce variability, and noise, and thus make it easier for the statistical test to detect a difference, if one is present. Of course, this will reduce generalizability and that can also be a concern.
+
+- Although another technique would be to use a within subjects design, because, as you should know, that should reduce the influences of these differences.
+
+### Unreliability of measures
+- Again this is about contributing to noise in that denominator mentioned above. That if your measures are unreliable then the scores that they produce will be partially a result of random noise. And that then means you'll have a harder time to detecting true differences.
+
+### multiple comparison error rates
+- This particular problem has to do with what's more recently referred to as "p hacking" . in this case P stands for probability, and specifically P value. We haven't talked about this yet but when you look at a data set there are possibly infinite ways to organize the data such that by chance you'll find a significant effect. So in your study if you're doing several comparisons then you need to account for the fact that you're increasing the opportunity of finding a fact that's just a random, chance event.
+
+
+# References
+
+Kazdin, A. E. (1992). Research Design in Clinical Psychology, 2nd edition. Allyn and Bacon. 
+
+McElreath, Richard (2020). Statistical Rethinking. A Bayesian Course with Examples in R and STAN. CRC Press, ISBN: 0429642318.
+
